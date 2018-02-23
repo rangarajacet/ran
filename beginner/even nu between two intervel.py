@@ -1,5 +1,5 @@
 a = input() 
 b = input()
-for n in range(a+1,b+1):
- if(n%2!=0):
-   print(n)
+for e in range(a+1,b+1):
+ if(e%2!=0):
+   print(e)
